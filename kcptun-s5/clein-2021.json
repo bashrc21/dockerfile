@@ -1,0 +1,23 @@
+{
+    "localaddr": ":1082",
+    "remoteaddr": "169.57.96.233:32704",
+	"key": "google.com",
+	"crypt": "salsa20",
+	"mode": "fast",
+	"mtu": 1400,
+	"sndwnd": 10240,
+	"rcvwnd": 10240,
+	"datashard": 10,
+	"parityshard": 3,
+	"dscp": 46,
+	"nocomp": true,
+	"acknodelay": false,
+	"sockbuf": 16777217,
+	"smuxbuf": 16777217,
+	"streambuf":16777217,
+	"smuxver": 2,
+	"keepalive": 10,
+	"pprof":false,
+	"quiet":true,
+	"tcp":false
+}
